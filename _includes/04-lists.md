@@ -1,0 +1,5 @@
+- Coffee
+- Sleep
+- Learning
+- Gaming
+- Fall/Spring weather
