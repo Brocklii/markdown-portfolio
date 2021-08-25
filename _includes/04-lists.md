@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Coffee
+- Sleep
+- Learning
+- Gaming
+- Fall/Spring weather
